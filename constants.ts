@@ -101,7 +101,7 @@ export const IMAGE = "IMAGE";
 export const CLOUD_NAME = "cloudName";
 export const ORG_ID = "organisationId";
 export const UTM_DETAILS =
-	"?utm_source=figma&utm_medium=plugin&utm_campaign=watermarkremoverio";
+	"utm_source=figma&utm_medium=plugin&utm_campaign=watermarkremoverio";
 
 export const createSignedURlDetails = {
 	path: "__figma/ebg",
